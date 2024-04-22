@@ -9,7 +9,7 @@ My name is Sujith R and I'm currently pursuing my B.Tech in Computer Science and
 - 📚 I enjoy learning new technologies and keeping up with the latest trends in AI and ML.
 
 ## Skills
-- Languages: Python, Java, JavaScript, HTML, CSS
+- Languages: Python, C, Java, JavaScript, HTML, CSS
 - Frameworks: Scikit-learn
 - Tools & Technologies: Git, Jupyter Notebooks, Docker
 
