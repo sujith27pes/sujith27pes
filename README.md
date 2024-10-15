@@ -14,7 +14,7 @@ My name is Sujith R and I'm currently pursuing my B.Tech in Computer Science and
 - Tools & Technologies: Git, Jupyter Notebooks, Docker
 
 ## Connect with Me
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/sujith-r-a89000252/
 - Email: sujithravichandran27@gmail.com
 - Portfolio: https://github.com/sujith27pes
 
